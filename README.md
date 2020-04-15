@@ -14,3 +14,6 @@
   2. 阅读与该文章相关的没有阅读过的文献
   
 * 第三步的关键是尝试虚拟的重新实现该篇文章
+
+相关论文：
+* Srinivasan Keshav: How to read a paper. Computer Communication Review 37(3): 83-84 (2007)
